@@ -44,7 +44,7 @@
 | RPGMaker (Ruby)                | < 1 Year         |
 | NextJS                         | < 1 Year         |
 
-### **Hobbies & Interests**
+### **🎉 Hobbies & Interests**
 
 - 🎞️ Animation
 - 🏁Board Games
