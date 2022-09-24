@@ -10,13 +10,15 @@
 
 ### **📜 Bachelor's Degree in Computer Science from University of Illinois**
 
-- Dynamic Programming
-- Virtual Reality
-- User Interface Design
-- Web Development
-- Machine Learning
-- Introduction to Databases
-- Introduction to Data Science
+| Course Name                  | Programming Languages          |
+| ---------------------------- | ------------------------------ |
+| Dynamic Programming          | Pseudocode                     |
+| Virtual Reality              | C#, Unity                      |
+| User Interface Design        | Pseudocode                     |
+| Web Development              | HTML, CSS, React, React Native |
+| Machine Learning             | Python                         |
+| Introduction to Databases    | HTML, CSS, PHP, SQL            |
+| Introduction to Data Science | Python                         |
 
 ### **💽 Programming Language Expertise ⭐**
 
