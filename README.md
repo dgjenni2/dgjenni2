@@ -2,11 +2,9 @@
 
 ## **About Me**
 
-- 👀 I’m interested in web applications, website development, website design, game development, sprite work, cooking
-
 ## **Education & Experience**
 
-### **5 Years Corporate Software Development Experience**
+### 👨🏻‍💼**5 Years Corporate Software Development Experience**
 
 ### **📜 Bachelor's Degree in Computer Science from University of Illinois**
 
@@ -22,37 +20,50 @@
 
 ### **💽 Programming Language Expertise ⭐**
 
-- JAVA
-- HTML & CSS
-- JavaScript
-  - React
-  - JQuery
+| Programming Language / Library | Corporate Experience |
+| ------------------------------ | -------------------- |
+| JAVA                           | 5 Years              |
+| HTML & CSS                     | 5 Years              |
+| Javascript                     | 3 Years              |
+| JQuery                         | 2 Years              |
+| React                          | 1 Year               |
 
 ### **💿 General Programming Experience**
 
-- JAVA
-- Python
-- HTML & CSS
-- JavaScript
-  - React
-  - NextJS
-  - JQuery
-- C#
-- Unity (C#)
-- RPGMaker (Ruby)
-- Gamemaker2 (GML)
+| Programming Language / Library | Total Experience |
+| ------------------------------ | ---------------- |
+| HTML & CSS                     | 6 Years          |
+| JAVA                           | 5 Years          |
+| Javascript                     | 4 Years          |
+| React                          | 3 Year           |
+| JQuery                         | 3 Years          |
+| C#                             | 2 Year           |
+| Unity                          | 2 Year           |
+| Python                         | 1 Year           |
+| Gamemaker2 (GML)               | 1 Year           |
+| RPGMaker (Ruby)                | < 1 Year         |
+| NextJS                         | < 1 Year         |
 
 ### **Hobbies & Interests**
 
-- Animations
-- Board Games
-- Cooking
-- Coding
-- Coffee
-- Drawing
-- Pixel Art
-- Working Out
+- 🎞️ Animation
+- 🏁Board Games
+- ♟️ Chess
+- ⌨️ Coding
+- 🍗 Cooking
+- ☕ Coffee
+- ✏️ Drawing
+- ⚔️ Fantasy
+- 💿 Frisbee
+- 👾 Pixel Art
+- 🎸 Rock n' Roll
+- 🚀 Science-Fiction
+- 🕹️ Video Games
+- 🎮 Video Game Development
+- 💻 Web Development & Design
+- 💪🏻 Working Out
+- 🖋️ Writing
 
 ### **📫 Contact Information**
 
-- ✉️ Email: digdug14@comcast.net
+✉️ Email: digdug14@comcast.net
